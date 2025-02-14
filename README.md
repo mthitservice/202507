@@ -46,5 +46,5 @@ https://docs.microsoft.com/learn/paths/az-204-integrate-caching-content-delivery
 >https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/
 
 ## Überlick MS Landschaft
-[MS Landschaft](https://github.com/mthitservice/202507/202507 AZ 204.png)
+[MS Landschaft](https://github.com/mthitservice/202507/blob/main/202507%20AZ%20204.png?raw=true)
 
