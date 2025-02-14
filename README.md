@@ -41,5 +41,7 @@ https://docs.microsoft.com/learn/paths/az-204-instrument-solutions-support-monit
 LP12:
 https://docs.microsoft.com/learn/paths/az-204-integrate-caching-content-delivery-within-solutions/
 
-
+## Zusatzwissen Praxis Labs
+>https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure
+>https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/
 
