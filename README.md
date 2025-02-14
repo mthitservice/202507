@@ -3,6 +3,10 @@
 ## Basiswissen
 Grundlage für den Kurs ist das Wissen über der Inhalt folgenden Kurses
 Azure Fundamentals (https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals)
+
+## Kursbewertung
+(https://www.metricsthatmatter.com/url/u.aspx?A86518B7A219295280)
+
 ## Kurswissen
 
 LP1:
